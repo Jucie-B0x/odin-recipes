@@ -26,3 +26,16 @@ li {
 font-style: italic;
 
 }
+
+p {
+
+font-size: 22px;
+
+}
+
+a, h1 {
+
+color:rgb(146, 4, 4);
+text-decoration: none;
+
+}
