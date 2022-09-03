@@ -1,0 +1,28 @@
+body {
+
+background-color:rgba(238, 255, 7, 0.349);
+
+}
+
+
+.description {
+
+background-color:#ffd23c;
+/*This color is golden poppy, 25% lighter*/
+
+font-weight: bold;
+
+}
+
+h3 {
+
+    background-color:#aa8e9a;
+    /*This color is Thistle*/
+    
+    }
+
+li {
+
+font-style: italic;
+
+}
